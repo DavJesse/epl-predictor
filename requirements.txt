@@ -1,0 +1,19 @@
+# Data Manipulation
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+xgboost
+joblib                # For saving/loading models
+
+# Web Scraping & API
+requests
+beautifulsoup4
+lxml                  # Faster HTML parser
+
+# Notebooks
+jupyterlab
+notebook
+matplotlib            # For plotting graphs
+seaborn               # Prettier graphs
