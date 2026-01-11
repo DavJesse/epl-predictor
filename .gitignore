@@ -11,7 +11,7 @@ venv/
 .vscode/
 
 # Data (NEVER commit large datasets)
-data/
+data/*
 !data/.gitkeep
 
 # Models (Optional: don't commit large binaries if >100MB)
