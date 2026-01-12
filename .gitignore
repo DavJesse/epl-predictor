@@ -12,6 +12,7 @@ venv/
 
 # Data (NEVER commit large datasets)
 data/*
+models_registry/*
 !data/.gitkeep
 
 # Models (Optional: don't commit large binaries if >100MB)
